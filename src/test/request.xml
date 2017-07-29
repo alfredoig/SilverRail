@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PostcodeNearbyStationsRequest xmlns="http://www.carmensystems.com/iptis/rtti" Version="16" RequestId="1" Channel="TrainPlanner">
+  <Postcode>AB107AP</Postcode>
+</PostcodeNearbyStationsRequest>

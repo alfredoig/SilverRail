@@ -5,12 +5,12 @@ Feature: Technical Ability
     Given a response from the webservice
     When the response message is verified
     Then it should have Success status and code 0
-    Then it should have code 0
+      And it should have code 0
 
     Given post code AB107AP
     When the web service response is obtained
     Then the response should have the post code AB107AP
-    Then it should also have its coordinates
+      And it should also have its coordinates
 
     Given post code AB107AP
     When the web service response is obtained

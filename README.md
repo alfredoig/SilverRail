@@ -17,7 +17,9 @@ The answer is located at src/generalAwarenessResponses/1. 3. General Awareness.d
 The answer is located at src/main/resources/question1.feature
 
 #### 2
-The answer is located at src/main/resources/question2.feature
+The answer is located at src/main/resources/question2.feature and it can be run using IntelliJ
+
+This Cucumber file has step definitions on the java file src/main/java/org/silverrail/MyStepdefs
 
 #### 3
 The answer is located at src/test/java/questionThree.java
